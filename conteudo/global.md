@@ -12,7 +12,7 @@ A IDE utilizada será o Visual Studio Code.
 
 Abaixo, é possível verificar a arquitetura das soluções envolvidas.
 
-![](img/arquitetura_global.svg)
+![arquitetura](img/arquitetura_global.svg)
 
 ### WSL2
 
