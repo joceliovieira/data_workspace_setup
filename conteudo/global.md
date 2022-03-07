@@ -22,7 +22,7 @@ Definição (documentação oficial): _The Windows Subsystem for Linux lets deve
 
 Windows Powershell/CMD como administrador:
 
-    wsl --install
+    wsl --install -d ubuntu
 
 ### Homebrew
 
