@@ -51,8 +51,25 @@ Exemplo
 ### Visual Studio Code
 
 #### Instalação
+A IDE será instalada na máquina Host, e acessada através do WSL.
 
-    brew install --cask visual-studio-code
+[Instalação VS Code](https://code.visualstudio.com/)
+
+#### Acessando via WSL
+
+Para acessar o Visual Studio Code através do Ubuntu, basta seguir para o diretório de trabalho e executar o comando 'code .'
+
+[WSL - Remote](https://code.visualstudio.com/docs/remote/wsl)
+
+Exemplo - Windows Shell
+
+```PowerShell
+cd {path}
+wsl
+code . 
+```
+
+Onde _path_ é o caminho do diretório de trabalho.
 
 ## Próximos Passos
 
