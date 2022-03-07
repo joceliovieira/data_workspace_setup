@@ -7,3 +7,4 @@ Repositório de armazenamento de utilidades para facilitar a configuração e ut
   - [Python e Ambientes Virtuais](utils_besspv\Conteudo\python.md)
   - [Docker](utils_besspv\Conteudo\docker.md)
   - [Referências](utils_besspv\Conteudo\refs.md)
+  
