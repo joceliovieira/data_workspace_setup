@@ -6,7 +6,7 @@ Aqui estão contidas informações sobre a configuração 'global' das máquinas
 
 A máquina a ser utilizada será baseada em Linux. Assim, caso o sistema operacional da mesma seja Windows, deverá ser utilizado o WSL2 (Windows Subsystem for Linux). Para detalhes, conferir a [documentação do WSL2](https://docs.microsoft.com/en-us/windows/wsl/about).
 
-Para realizar a instalação de softwares e afins, no sistema utilizado (Linux Ubuntu), será utilizada a ferramenta /[Homebrew](https://brew.sh/).
+Para realizar a instalação de softwares e afins, no sistema utilizado (Linux Ubuntu), será utilizada a ferramenta [Homebrew](https://brew.sh/).
 
 A IDE utilizada será o Visual Studio Code.
 
@@ -26,7 +26,7 @@ Windows Powershell/CMD como administrador:
 
 ### Homebrew
 
-Documentação: https://docs.brew.sh/Manpage
+Documentação: <https://docs.brew.sh/Manpage>
 
 Definição (documentação oficial): _Homebrew is the easiest and most flexible way to install the UNIX tools Apple/Linux didn’t. It can also install software not packaged for your Linux distribution to your home directory without requiring sudo._
 
@@ -51,6 +51,7 @@ Exemplo
 ### Visual Studio Code
 
 #### Instalação
+
 A IDE será instalada na máquina Host, e acessada através do WSL.
 
 [Instalação VS Code](https://code.visualstudio.com/)
