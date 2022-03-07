@@ -8,6 +8,12 @@ A máquina a ser utilizada será baseada em Linux. Assim, caso o sistema operaci
 
 Para realizar a instalação de softwares e afins, no sistema utilizado (Linux Ubuntu), será utilizada a ferramenta /[Homebrew](https://brew.sh/).
 
+A IDE utilizada será o Visual Studio Code.
+
+Abaixo, é possível verificar a arquitetura das soluções envolvidas.
+
+![](img/arquitetura_global.svg)
+
 ### WSL2
 
 Definição (documentação oficial): _The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup._
@@ -39,6 +45,14 @@ Após a instalação inicial, deve-se definit o 'PATH' do brew. Para tal, basta 
 Exemplo
 
     brew install wget
+
+### Visual Studio Code
+
+#### Instalação
+
+    brew install --cask visual-studio-code
+
+
 
 ## Próximos Passos
 
