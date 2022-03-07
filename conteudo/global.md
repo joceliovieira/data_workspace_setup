@@ -34,6 +34,8 @@ Opera de forma semelhante ao Anaconda, sendo que no âmbito do sistema operacion
 
 #### Instalação
 
+Após acessar o ambiente WSL, é realizada a instalação do brew através da seguinte linha de comando.
+
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 Após a instalação inicial, deve-se definit o 'PATH' do brew. Para tal, basta seguir os comandos exibidos no terminal, na seção de 'Next Steps'.
@@ -51,8 +53,6 @@ Exemplo
 #### Instalação
 
     brew install --cask visual-studio-code
-
-
 
 ## Próximos Passos
 
