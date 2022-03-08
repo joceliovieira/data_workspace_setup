@@ -76,4 +76,4 @@ Onde _path_ é o caminho do diretório de trabalho.
 
 Instalado o WSL2 e o Brew, pode-se seguir para a configuração/instalação dos ambientes de desenvolvimento Python e Docker.
 
-Para acessar o material deferente a Python clique [aqui](utils_besspv\Conteudo\python.md), e Docker, [aqui](utils_besspv\Conteudo\docker.md).
+Para acessar o material deferente a Python clique [aqui](\Conteudo\python.md), e Docker, [aqui](\Conteudo\docker.md).
