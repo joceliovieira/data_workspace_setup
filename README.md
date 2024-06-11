@@ -1,6 +1,6 @@
-# Utilidades do Projeto BESS/PV
+# Data Workspace Setup
 
-Repositório de armazenamento de utilidades para facilitar a configuração e utilização das ferramentas envolvidas no projeto BESS/PV.
+Repositório de armazenamento de utilidades para facilitar a configuração e utilização de ferramentas envolvidas em projetos de dados.
 
 ## Conteúdo
 
